@@ -1,5 +1,5 @@
 #!/bin/sh
-
+# I am lab3
 prompt="Grock- ";
 printf "Grock- " 
 read command
